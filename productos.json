@@ -1,0 +1,72 @@
+[
+  {
+    "sku": "TEC-001",
+    "marca": "Logitech",
+    "nombre": "Mouse inalámbrico",
+    "precio": 59900,
+    "foto": "images/producto.svg"
+  },
+  {
+    "sku": "TEC-002",
+    "marca": "HP",
+    "nombre": "Teclado USB",
+    "precio": 45000,
+    "foto": "images/producto.svg"
+  },
+  {
+    "sku": "TEC-003",
+    "marca": "Samsung",
+    "nombre": "Audífonos",
+    "precio": 79900,
+    "foto": "images/producto.svg"
+  },
+  {
+    "sku": "TEC-004",
+    "marca": "Lenovo",
+    "nombre": "Memoria USB 32GB",
+    "precio": 25000,
+    "foto": "images/producto.svg"
+  },
+  {
+    "sku": "TEC-005",
+    "marca": "Xiaomi",
+    "nombre": "Cargador rápido",
+    "precio": 39900,
+    "foto": "images/producto.svg"
+  },
+  {
+    "sku": "TEC-006",
+    "marca": "JBL",
+    "nombre": "Parlante Bluetooth",
+    "precio": 119900,
+    "foto": "images/producto.svg"
+  },
+  {
+    "sku": "TEC-007",
+    "marca": "Kingston",
+    "nombre": "Memoria microSD",
+    "precio": 31900,
+    "foto": "images/producto.svg"
+  },
+  {
+    "sku": "TEC-008",
+    "marca": "Acer",
+    "nombre": "Mouse pad",
+    "precio": 19900,
+    "foto": "images/producto.svg"
+  },
+  {
+    "sku": "TEC-009",
+    "marca": "Sony",
+    "nombre": "Cable USB-C",
+    "precio": 22000,
+    "foto": "images/producto.svg"
+  },
+  {
+    "sku": "TEC-010",
+    "marca": "Asus",
+    "nombre": "Webcam básica",
+    "precio": 89900,
+    "foto": "images/producto.svg"
+  }
+]
